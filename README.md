@@ -6,7 +6,7 @@ An AI-enhanced freelance service marketplace MVP. The platform allows clients to
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server:  
 
 ```bash
 npm run dev
